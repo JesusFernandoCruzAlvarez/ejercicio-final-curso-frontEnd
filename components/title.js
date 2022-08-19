@@ -5,3 +5,4 @@ const title=(label)=>{
     h1.textContent=label
     return h1;
 }
+//listo
